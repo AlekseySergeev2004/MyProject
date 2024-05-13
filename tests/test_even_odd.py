@@ -12,7 +12,7 @@ def test_even_odd():
     assert check_even_odd(-1) == "Нечетное число"
 
 def test_odd_number():
-    assert check_even_odd(3) == "odd"
+    assert check_even_odd(5) == "odd"
 
 if __name__ == "__main__":
     test_even_odd()
