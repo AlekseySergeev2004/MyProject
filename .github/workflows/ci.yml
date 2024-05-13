@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - main  # или другая ветка, в которую вы хотите слать изменения
+      - main
 
 jobs:
   build:
