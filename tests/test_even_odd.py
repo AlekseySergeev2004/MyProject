@@ -9,7 +9,7 @@ def test_even_odd():
     assert check_even_odd(2) == "Четное число"
     assert check_even_odd(3) == "Нечетное число"
     assert check_even_odd(0) == "Четное число"
-    assert check_even_odd(-2) == "Нечетное число"
+    assert check_even_odd(-1) == "Нечетное число"
     assert check_even_odd(13) == "Нечетное число"
 
 if __name__ == "__main__":
