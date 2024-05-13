@@ -14,6 +14,10 @@ def test_even_odd():
 def test_odd_number():
     assert check_even_odd(13) == "Нечетное число"
 
+def test_odd_number():
+    assert check_even_odd(16) == "Четное число"
+
+
 if __name__ == "__main__":
     test_even_odd()
     print("Все тесты пройдены успешно!")
