@@ -1995,7 +1995,6 @@ EXTRA_SEARCH_MAPPINGS  =
 # The default value is: YES.
 
 
-
 # The LATEX_OUTPUT tag is used to specify where the LaTeX docs will be put. If a
 # relative path is entered the value of OUTPUT_DIRECTORY will be put in front of
 # it.
@@ -2903,5 +2902,4 @@ PROJECT_NAME           = "MyProject"
 OUTPUT_DIRECTORY       = "docs"
 GENERATE_LATEX         = NO
 EXTRACT_ALL            = YES
-
 
